@@ -10,3 +10,6 @@ To use the habit tracker please follow these steps:<br>
 <br> 2) Download an IDE of you choice (e.g. PyCharm)
 <br> 3) Install all needed modules to run the program
 <br> 4) Run the mainloop.py file
+### Access predfined habit data
+To access the predfined habit data you have to delete (if exists) the habits_database.db file and rename the predefined_data_4weeks.db file into habits_dstabase.db
+<br> Then it is possible to analyze the predfined habit data. Mind that if you check off any habit after the 04. May 2023 it will reset the habit streak because it was not checked off consecutively
